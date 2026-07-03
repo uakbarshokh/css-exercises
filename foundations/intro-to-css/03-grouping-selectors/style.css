@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+
+.first,
+.second {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.first {
+    color: white;
+    background-color: black;
+}
+
+.second {
+    color: black;
+    background-color: yellow;
+}
